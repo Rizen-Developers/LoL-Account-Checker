@@ -1,2 +1,2 @@
-# nitro_token_checker
-Discord Token Checker (Nitro)
+# Discord Token Checker (Nitro)
+##### run `nitro_checker.py` and put tokens in `tokens.txt`
